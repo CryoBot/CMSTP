@@ -1,5 +1,5 @@
 [version]
-Signature=$Protivti$
+Signature=$ProEDR$
 AdvancedINF=2.5
 
 [DefaultInstall_SingleUser]
@@ -10,5 +10,5 @@ UnRegisterOCXs=UnRegisterOCXSection
 
 [Strings]
 AppAct = "SOFTWARE\Microsoft\Connection Manager"
-ServiceName="Protiviti"
-ShortSvcName="Protiviti"
+ServiceName="ProEDR"
+ShortSvcName="ProEDR"
